@@ -1,1 +1,1 @@
-Exposing jquery with expose-loader
+Issue with expose-loader when using NamedModulesPlugin
